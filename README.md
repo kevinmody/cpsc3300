@@ -1,5 +1,5 @@
 # cpsc3300
-This course was taught by Dr. Smotherman. 
+Dr. Smotherman taught this course. 
 
 Introduction to computer system architecture. The study and representation of various hardware/software setups as integrated systems. Digital logic, fundamental computer architecture, computer math, memory organization, input/output organizations, interrupt processing, multiprocessors, and cluster computers are among the topics covered.
 
